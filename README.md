@@ -8,7 +8,7 @@ You always start first. After you pick cell AI will make his move:\
 \
 <img width="227" alt="image" src="https://user-images.githubusercontent.com/67323825/182844979-fe7de021-30d9-409c-b750-3cf9774536e0.png">\
 \
-After that you need to make your move and etc., while game isn't end.\
+After that you need to make your move and etc., until game is over.\
 In the end message about tie or who wins will appear:\
 \
 <img width="263" alt="image" src="https://user-images.githubusercontent.com/67323825/182845319-a0dda356-8231-48df-ac84-0ce706209e8c.png">\
